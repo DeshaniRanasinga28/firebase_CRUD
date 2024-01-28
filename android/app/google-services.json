@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579299973092",
+    "project_id": "activity11-a554a",
+    "storage_bucket": "activity11-a554a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579299973092:android:7a78817108a11ca9d399f1",
+        "android_client_info": {
+          "package_name": "com.esoft.activity11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4obNqwm0L2vnwZCnwc36IGiJDlpcafOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
